@@ -154,3 +154,45 @@
 
 6. **Purchase Tips:**
    - When selecting pork belly, look for pieces with an even distribution of fat and meat. Avoid pieces with too much connective tissue or excess fat.
+
+## Analysis for images/1729135038222_blob
+
+1. **Ingredients Identified:**
+   - **Pork Belly (五花肉):** Cubes of braised pork belly, located throughout the dish.
+   - **Spring Onions (小葱):** Finely chopped green onions, sprinkled on top.
+   - **Dried Red Chili (干辣椒):** A visible dried red chili pepper near the bottom center.
+
+2. **Ingredient Profiles:**
+   - **Pork Belly (五花肉):**
+     - **Characteristics:** Tender and fatty with a crispy skin when properly cooked.
+     - **Texture:** Tender and juicy with a slightly crispy exterior.
+     - **Nutritional Value:** High in protein and fat, providing energy and essential nutrients.
+   - **Spring Onions (小葱):**
+     - **Characteristics:** Mild onion flavor with a slight sweetness.
+     - **Texture:** Crisp and slightly crunchy.
+     - **Nutritional Value:** Rich in vitamins A and C, as well as folate and potassium.
+   - **Dried Red Chili (干辣椒):**
+     - **Characteristics:** Adds heat and a smoky flavor to the dish.
+     - **Texture:** Crisp when cooked.
+     - **Nutritional Value:** Contains capsaicin, which can boost metabolism and aid digestion.
+
+3. **Cooking Suggestions:**
+   - **Braised Pork Belly (红烧肉):**
+     - **Method:** Simmer pork belly cubes in a mixture of soy sauce, sugar, and spices until tender and caramelized.
+   - **Pork Belly Stir-Fry with Vegetables (回锅肉):**
+     - **Method:** Stir-fry pork belly with garlic, ginger, and a variety of vegetables like bell peppers and snap peas.
+   - **Crispy Pork Belly with Hoisin Sauce (脆皮叉烧):**
+     - **Method:** Roast pork belly until the skin is crispy, then serve with hoisin sauce.
+
+4. **Pairing Suggestions:**
+   - **Rice (米饭):** Complements the rich flavors of the pork belly.
+   - **Steamed Vegetables (蒸蔬菜):** Adds a fresh and healthy component to the meal.
+   - **Cold Noodles (凉面):** Can be served alongside for a complete meal.
+
+5. **Storage Tips:**
+   - **Pork Belly:** Store in the refrigerator for up to 3 days or freeze for longer storage.
+   - **Spring Onions:** Store in the refrigerator in a plastic bag for up to 1 week.
+   - **Dried Red Chili:** Store in an airtight container in a cool, dry place for several months.
+
+6. **Purchase Suggestions:**
+   - When selecting pork belly, choose pieces with an even layer of fat and lean meat for consistent cooking results.
