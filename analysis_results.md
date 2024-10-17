@@ -103,3 +103,54 @@
 6. 购买建议：
    - 选择卷心菜时，应选择叶片紧密包裹、颜色鲜绿、没有虫蛀或损伤的卷心菜。
    - 如果可能的话，选择有机种植的卷心菜，以确保其安全性和营养价值。
+
+## Analysis for images/1729134972584_blob
+
+1. **Ingredients Identified:**
+   - **Pork Belly (五花肉)**: Cubes of pork belly, visible throughout the dish.
+   - **Spring Onions (小葱)**: Finely chopped green onions, sprinkled on top of the dish.
+   - **Dried Red Chili Peppers (干辣椒)**: A few pieces of dried red chili peppers, scattered in the dish.
+   - **Soy Sauce (酱油)**: Dark soy sauce used for braising and flavoring the pork.
+   - **Sugar (糖)**: Likely used for caramelization and adding a sweet note to the sauce.
+   - **Cooking Wine (料酒)**: Used for deglazing and adding flavor to the dish.
+   - **Star Anise (八角)**: A few pieces of star anise, used for adding aroma and flavor.
+   - **Cinnamon Stick (桂皮)**: A small piece of cinnamon stick, used for adding warmth to the flavor profile.
+   - **Garlic (大蒜)**: A few cloves of garlic, possibly used for aroma and flavor.
+   - **Ginger (生姜)**: Slices of ginger, used for adding a spicy and aromatic note.
+
+2. **Ingredients Description:**
+   - **Pork Belly (五花肉)**: Known for its layers of fat and meat, providing a rich and savory flavor when cooked slowly.
+   - **Spring Onions (小葱)**: Provide a fresh and mild onion flavor, often used as a garnish.
+   - **Dried Red Chili Peppers (干辣椒)**: Add heat and a slight smoky flavor to the dish.
+   - **Soy Sauce (酱油)**: A fermented sauce made from soybeans, providing a salty and umami flavor.
+   - **Sugar (糖)**: Used to balance the saltiness of the soy sauce and create a glossy glaze.
+   - **Cooking Wine (料酒)**: Made from fermented grains, it helps to tenderize the meat and adds a subtle flavor.
+   - **Star Anise (八角)**: A spice with a strong licorice-like flavor, commonly used in Chinese cooking.
+   - **Cinnamon Stick (桂皮)**: Adds a warm, sweet, and woody flavor to the dish.
+   - **Garlic (大蒜)**: Provides a pungent and aromatic flavor when cooked.
+   - **Ginger (生姜)**: Adds a spicy and slightly sweet flavor, often used to balance the richness of pork.
+
+3. **Cooking Suggestions:**
+   - **Red Braised Pork Belly (红烧肉)**: A classic Chinese dish where pork belly is braised in a mixture of soy sauce, sugar, cooking wine, star anise, cinnamon, garlic, and ginger until tender and glazed.
+   - **Pork Belly Stir-Fry with Vegetables**: Pork belly can be stir-fried with a variety of vegetables like bell peppers, carrots, and snap peas, using soy sauce and garlic for seasoning.
+   - **Pork Belly Lettuce Wraps**: Thinly sliced pork belly can be stir-fried with hoisin sauce, ginger, and garlic, then served in lettuce leaves with fresh herbs and vegetables.
+
+4. **Pairing Suggestions:**
+   - **Rice**: The perfect accompaniment to soak up the rich sauce.
+   - **Steamed Vegetables**: A light side dish to balance the richness of the pork belly.
+   - **Pickled Vegetables**: Adds a tangy contrast to the sweet and savory flavors of the pork.
+
+5. **Storage Tips:**
+   - **Pork Belly**: Store in the refrigerator for up to 3 days or freeze for up to 3 months.
+   - **Spring Onions**: Store in the refrigerator in a plastic bag for up to 1 week.
+   - **Dried Red Chili Peppers**: Store in an airtight container in a cool, dark place for up to 6 months.
+   - **Soy Sauce**: Store in a cool, dark place for up to 1 year.
+   - **Sugar**: Store in an airtight container in a cool, dry place for up to 1 year.
+   - **Cooking Wine**: Store in a cool, dark place for up to 1 year.
+   - **Star Anise**: Store in an airtight container in a cool, dark place for up to 1 year.
+   - **Cinnamon Stick**: Store in an airtight container in a cool, dark place for up to 1 year.
+   - **Garlic**: Store in a cool, dark place for up to 1 month or in the refrigerator for up to 3 months.
+   - **Ginger**: Store in the refrigerator for up to 2 weeks or freeze for up to 3 months.
+
+6. **Purchase Tips:**
+   - When selecting pork belly, look for pieces with an even distribution of fat and meat. Avoid pieces with too much connective tissue or excess fat.
