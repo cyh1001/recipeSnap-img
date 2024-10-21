@@ -243,3 +243,34 @@
 
 6. 购买建议：
    - 选择颜色鲜艳、肉质紧实且无异味的三文鱼。如果可能的话，选择野生捕捞的三文鱼，因为它们通常含有更多的omega-3脂肪酸。
+
+## Analysis for images/1729488469858_blob
+
+1. **Ingredient Name**:
+   - Sweet Corn (Zea mays)
+
+2. **Ingredient Profile**:
+   - **Sweet Corn**: Sweet corn, also known as maize, is a cereal grain that is harvested while the kernels are still tender. It has a sweet and slightly milky flavor, making it a popular vegetable in many cuisines. Sweet corn is rich in vitamins A and C, as well as dietary fiber.
+
+3. **Cooking Suggestions**:
+   - **Grilled Corn on the Cob**:
+     - **Ingredients**: Sweet corn, butter, salt, pepper.
+     - **Method**: Shuck the corn and remove the silk. Rub the ears with butter and season with salt and pepper. Grill over medium heat until the kernels are tender and slightly charred.
+   - **Corn Salad**:
+     - **Ingredients**: Sweet corn, tomatoes, cucumber, red onion, lime juice, olive oil, salt, pepper.
+     - **Method**: Boil the corn for a few minutes, then cut the kernels off the cob. Mix with chopped tomatoes, cucumber, and red onion. Dress with lime juice, olive oil, salt, and pepper.
+   - **Corn Fritters**:
+     - **Ingredients**: Sweet corn, flour, eggs, milk, baking powder, salt, oil for frying.
+     - **Method**: Mix the corn with flour, eggs, milk, baking powder, and salt. Heat oil in a pan and fry spoonfuls of the batter until golden brown on both sides.
+
+4. **Pairing Suggestions**:
+   - **Meats**: Pork, chicken, beef.
+   - **Vegetables**: Bell peppers, zucchini, carrots.
+   - **Herbs and Spices**: Cilantro, chili powder, paprika.
+
+5. **Storage Tips**:
+   - Store fresh sweet corn in the refrigerator in a plastic bag for up to 3 days.
+   - For longer storage, you can freeze the kernels by blanching them first.
+
+6. **Purchase Advice**:
+   - When selecting sweet corn, look for ears with tightly packed, plump kernels and green, fresh-looking husks. Avoid ears with dry or discolored kernels.
